@@ -8,14 +8,13 @@
 
 ## Skyscraper Monorepo(Based on Modrinth)
 
-Welcome to the Skyscraper Monorepo, the primary codebase for the Skyscraper web interface. It contains ![Lines](https://img.shields.io/endpoint?url=https://ghloc.vercel.app/api/modrinth/olympus/badge?logoColor=white&color=black&label=) lines of code and has ![Contributors](https://img.shields.io/github/contributors/Modrinth/code?color=black&label=) contributors!
+Welcome to the Skyscraper Monorepo, the primary codebase for the Skyscraper web interface. It contains ![Lines](https://img.shields.io/endpoint?url=https://ghloc.vercel.app/api/modrinth/olympus/badge?logoColor=white&color=black&label=) lines of code!
 
 ## Development
 
 This repository contains two primary packages. For detailed development information, please refer to their respective READMEs:
 
 - [Web Interface](apps/frontend/README.md)
-- [Desktop App](apps/app/README.md)
 
 ## Contributing
 
